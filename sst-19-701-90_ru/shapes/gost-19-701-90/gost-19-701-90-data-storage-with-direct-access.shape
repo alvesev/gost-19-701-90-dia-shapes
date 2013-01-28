@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+    <name>GOST-19-701-90 - data-storage-with-direct-access</name>
+    <description>Algorithms, data programs and systems</description>
+    <description xml:lang="ru">Схемы алгоритмов, программ данных и систем</description>
+    <icon>gost-19-701-90-data-storage-with-direct-access.svg</icon>
+<!--
+    Copyright 2013 Alex Vesev
+
+    This file is part of Dia shapes set presenting State Standard
+    Specification 19.701-90, Russia - the Shapes Set.
+
+    The Shapes Set is free: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    The Shapes Set is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with the Shapes Set.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+    <connections>
+
+        <point x="40" y="25" main="yes"/>
+
+        <!-- TOP -->
+        <point x="10" y="0"/>
+        <point x="20" y="0"/>
+        <point x="30" y="0"/>
+        <point x="40" y="0"/>
+        <point x="50" y="0"/>
+        <point x="60" y="0"/>
+        <point x="70" y="0"/>
+
+        <!-- RIGHT -->
+        <point x="80" y="0"/>
+        <point x="86.85" y="10"/>
+        <point x="89.3" y="20"/>
+        <point x="90" y="25"/>
+        <point x="89.3" y="30"/>
+        <point x="86.85" y="40"/>
+
+        <!-- BOTTOM -->
+        <point x="80" y="50"/>
+        <point x="70" y="50"/>
+        <point x="60" y="50"/>
+        <point x="50" y="50"/>
+        <point x="40" y="50"/>
+        <point x="30" y="50"/>
+        <point x="20" y="50"/>
+
+        <!-- LEFT -->
+        <point x="10" y="50"/>
+        <point x="3.15" y="40"/>
+        <point x="0.70" y="30"/>
+        <point x="0" y="25"/>
+        <point x="0.70" y="20"/>
+        <point x="3.15" y="10"/>
+
+    </connections>
+    <textbox x1="10" y1="2" x2="70" y2="48"/>
+    <aspectratio type="fixed"/>
+    <svg:svg>
+        <svg:path style="fill: #ffffff"
+            d="
+                M 10  0
+                L 80  0
+                C 92.6,13 92.6,37 80,50
+                L 10  50
+                C -2.6,37 -2.6,13 10,0
+                z
+                M 80  0
+                C 67.4,13 67.4,37 80,50
+            "
+        />
+    </svg:svg>
+</shape>

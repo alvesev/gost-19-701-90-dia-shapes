@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+    <name>GOST-19-701-90 - paper-tape</name>
+    <description>Algorithms, data programs and systems</description>
+    <description xml:lang="ru">Схемы алгоритмов, программ данных и систем</description>
+    <icon>gost-19-701-90-paper-tape.svg</icon>
+<!--
+    Copyright 2013 Alex Vesev
+
+    This file is part of Dia shapes set presenting State Standard
+    Specification 19.701-90, Russia - the Shapes Set.
+
+    The Shapes Set is free: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    The Shapes Set is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with the Shapes Set.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+    <connections>
+
+        <point x="30" y="20" main="yes"/>
+
+        <!-- TOP -->
+        <point x="0"     y="5"/>
+        <point x="15"    y="10"/>
+        <point x="30"    y="5"/>
+        <point x="45"    y="0"/>
+        <point x="60"    y="5"/>
+
+        <!-- RIGHT -->
+        <point x="60" y="10"/>
+        <point x="60" y="15"/>
+        <point x="60" y="20"/>
+        <point x="60" y="25"/>
+        <point x="60" y="30"/>
+        <point x="60" y="35"/>
+        <point x="60" y="40"/>
+
+        <!-- BOTTOM -->
+        <point x="0"     y="35"/>
+        <point x="15"    y="40"/>
+        <point x="30"    y="35"/>
+        <point x="45"    y="30"/>
+        <point x="60"    y="35"/>
+
+        <!-- LEFT -->
+        <point x="0" y="35"/>
+        <point x="0" y="30"/>
+        <point x="0" y="25"/>
+        <point x="0" y="20"/>
+        <point x="0" y="15"/>
+        <point x="0" y="10"/>
+
+    </connections>
+    <textbox x1="2" y1="10" x2="58" y2="30"/>
+    <aspectratio type="fixed"/>
+    <svg:svg>
+        <svg:path style="fill: #ffffff"
+            d="
+                M 0  5
+                C 12, 11.69  18, 11.69   30,5
+                C 43, -1.69  48, -1.69   60,5
+                V 40
+                C 48, 28.31  43, 28.31   30,35
+                C 18, 41.69  12, 41.69    0,35
+                z
+            "
+        />
+    </svg:svg>
+</shape>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+    <name>GOST-19-701-90 - document</name>
+    <description>Algorithms, data programs and systems</description>
+    <description xml:lang="ru">Схемы алгоритмов, программ данных и систем</description>
+    <icon>gost-19-701-90-document.svg</icon>
+<!--
+    Copyright 2013 Alex Vesev
+
+    This file is part of Dia shapes set presenting State Standard
+    Specification 19.701-90, Russia - the Shapes Set.
+
+    The Shapes Set is free: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    The Shapes Set is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with the Shapes Set.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+    <connections>
+
+        <point x="32.5" y="20" main="yes"/>
+
+        <!-- TOP -->
+        <point x="0"      y="0"/>
+        <point x="10.83"  y="0"/>
+        <point x="21.667" y="0"/>
+        <point x="32.5"   y="0"/>
+        <point x="43.33"  y="0"/>
+        <point x="54.167" y="0"/>
+
+        <!-- RIGHT -->
+        <point x="65" y="0"/>
+        <point x="65" y="7"/>
+        <point x="65" y="14"/>
+        <point x="65" y="17.5"/>
+        <point x="65" y="21"/>
+        <point x="65" y="28"/>
+
+        <!-- BOTTOM -->
+        <point x="0"     y="35.979"/>
+        <point x="18.25" y="40.87"/>
+        <point x="36.50" y="35.979"/>
+        <point x="50.75" y="31.09"/>
+        <point x="65"    y="35.979"/>
+
+        <!-- LEFT -->
+        <point x="0" y="7"/>
+        <point x="0" y="14"/>
+        <point x="0" y="17.5"/>
+        <point x="0" y="21"/>
+        <point x="0" y="28"/>
+
+    </connections>
+    <textbox x1="2" y1="2" x2="63" y2="28"/>
+    <aspectratio type="fixed"/>
+    <svg:svg>
+        <!--
+            The path below intended to have geometry:
+                OX: 40+25=65
+                OY: 30+5+5=40
+            In fact it's implementation have aproximate dimensions.
+        -->
+        <svg:path style="fill: #ffffff"
+            d="
+                M 0  0
+                L 65 0
+                L 65 35.979
+                C 55.43,29.44 47.14,29.44 36.414,35.979
+                C 25.69,42.51 11.96,42.51 0,35.979
+                z
+            "
+        />
+    </svg:svg>
+</shape>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!--
+    Copyright 2013 Alex Vesev
+
+    This file is part of Dia shapes set presenting State Standard
+    Specification 19.701-90, Russia - the Shapes Set.
+
+    The Shapes Set is free: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    The Shapes Set is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with the Shapes Set.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="22"
+   height="22"
+   id="svg5618">
+  <defs
+     id="defs5620" />
+  <metadata
+     id="metadata5623">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-1030.3622)"
+     id="layer1"
+     style="display:none">
+    <image
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAAALCAYAAADLA1tMAAAABHNCSVQICAgIfAhkiAAABBpJREFU SIntlT1vE0sUhp/Z77U3Gz4MBRLiIwUSqWjoKIio6dOk4CdQ8gdoKaClgIIWQU0BQiCkSEhpoggB QiRxE5sQx2vv7OycW+TOYBOk+wO4R7LWM+fs+Xj9vseqbVux1hJFEdZatNakaYpSiqZpAFBKEYYh Sin+ZHVdkySJfyeO4zn/jx8/WFhYIIoiRASlFFprkiTBWksQBABorYnjGKXUsTiApmkQEZ9/th9r LcYYkiShqio6nQ5t2/ocWZZR1zXGGLIsw1pLHMeIyFEuY4zUdU0cx76AtdYXcU9rLdZaf6eU8gO4 JpVSRFHEdDpFa01RFEynUzqdzhwwbsi6rknTFABjDFprwjBERBAR8jzHWstkMiHPc4IgQGtN27Zk WYZSyvc024vL78B1QBpjiKIIgPF4TBAEZFl2NJM4SP7Q6Ox5NswBMWsOKFdo9lcJwxCtNSJCmqbe Nwu6MWaOSY6N7u7nz58EQcDCwgIABwcHlGV5LM71aowhCAKCIKBtW+I4RmtNXdeeKYuLi78YMRgM pCxL4BfFXdK2bT3avwPjBrfWkqapl5VDX2tNEARYa8myjMPDQ8IwJM9zACaTCUmSEIahPzuf1hql 1DGJOZ8D9HdzMnPydOfhcMji4qKv5Ww4HHLy5MkjIGYZ4ZhQVRXj8ZhOp+P1aq09xgr37Pf7DAYD tre3GY1GXL9+neXl5bminz594vnz51y5coXbt2/PNf/48WNevHjBysoKa2trnDp1yvufPHnCs2fP WFtbY3V1lb29PXq9HgCPHj3i69evdDodtNaUZcmNGzf49u0bKysrfP78mdFoxMWLF+l2u2xvb9Pt dllaWiKKIpIk8ZKKxuMxSinyPEcpxWAw4MGDBzx9+pTRaERRFBhjMMZ4Cna7XYqiIMsyiqKg3+/7 BZtlGcYYLl265BeSMYaNjQ3u3bvH5cuXWV5eZmlpyUvk3bt3vHz5kl6v51kBR/La2tri1atXnD9/ ntXVVQ8CHC3h9+/f+0V44sQJoihid3eXsiz58uULHz584NatW4zHYz5+/AjAzs4Op0+f5v79+1y4 cGGeEY6aTdPw9u1bNjc36fV6NE3jJeAGLYrCA5GmKU3TcO7cOcqyZDKZcObMGU9jJ5W9vT0ePnxI WZbcvXt3ji3r6+u8efOGmzdvcu3aNfb398nznDRN6ff7bG1tcfbsWa5evUrbtlRV5XeFM2MMTdOQ 57mvW9c1URQRhiHD4ZCqqsiyjNevX/P9+3fu3LnzK89oNBIRkbZtZTqdirPDw0N/P/ux1srvZq2d u9daizHGfz84OPC+tm1FRKSua9FaS13XIiJzMVVViYj4HLO5XbyI+H611v7OzbO/v38sn7V27v3Z 3pW19ti/xt9owX+H/B32PxD/2j8egCFb3Y6OUwAAAABJRU5ErkJggg== "
+       x="-15.946429"
+       y="1037.2194"
+       width="50.464287"
+       height="8.4107141"
+       id="image5667" />
+  </g>
+  <g
+     transform="translate(0,1)"
+     id="layer6">
+    <path
+       d="m 12.342801,10.4881 a 1.5467961,1.5467961 0 1 1 -3.0935918,0 1.5467961,1.5467961 0 1 1 3.0935918,0 z"
+       transform="translate(-5.625,-0.49107143)"
+       id="path6185"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       d="m 12.342801,10.4881 a 1.5467961,1.5467961 0 1 1 -3.0935918,0 1.5467961,1.5467961 0 1 1 3.0935918,0 z"
+       transform="translate(-0.26029094,-0.5148858)"
+       id="path6185-0"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       d="m 12.342801,10.4881 a 1.5467961,1.5467961 0 1 1 -3.0935918,0 1.5467961,1.5467961 0 1 1 3.0935918,0 z"
+       transform="translate(5.1861376,-0.55952866)"
+       id="path6185-6"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+</svg>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+    <name>GOST-19-701-90 - parallel actions</name>
+    <description>Algorithms, data programs and systems</description>
+    <description xml:lang="ru">Схемы алгоритмов, программ данных и систем</description>
+    <icon>gost-19-701-90-parallel-actions.svg</icon>
+<!--
+    Copyright 2013 Alex Vesev
+
+    This file is part of Dia shapes set presenting State Standard
+    Specification 19.701-90, Russia - the Shapes Set.
+
+    The Shapes Set is free: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    The Shapes Set is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with the Shapes Set.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+    <connections>
+        <point x="10.5" y="1.5" main="yes"/>
+        <!-- Height Middle -->
+        <point x="0" y="1.5"/>
+        <!-- Top horizontal line with points layed aside. -->
+        <point x="0" y="-1.5"/>
+        <point x="3" y="-1.5"/>
+        <point x="6" y="-1.5"/>
+        <point x="9" y="-1.5"/>
+        <point x="12" y="-1.5"/>
+        <point x="15" y="-1.5"/>
+        <point x="18" y="-1.5"/>
+        <point x="21" y="-1.5"/>
+        <!-- Top horizontal line. -->
+        <point x="0" y="0"/>
+        <point x="3" y="0"/>
+        <point x="6" y="0"/>
+        <point x="9" y="0"/>
+        <point x="12" y="0"/>
+        <point x="15" y="0"/>
+        <point x="18" y="0"/>
+        <point x="21" y="0"/>
+        <!-- Height Middle -->
+        <point x="21" y="1.5"/>
+        <!-- Bottom horizontal line with points layed aside. -->
+        <point x="21" y="4.5"/>
+        <point x="18" y="4.5"/>
+        <point x="15" y="4.5"/>
+        <point x="12" y="4.5"/>
+        <point x="9" y="4.5"/>
+        <point x="6" y="4.5"/>
+        <point x="3" y="4.5"/>
+        <point x="0" y="4.5"/>
+        <!-- Bottom horizontal line. -->
+        <point x="21" y="3"/>
+        <point x="18" y="3"/>
+        <point x="15" y="3"/>
+        <point x="12" y="3"/>
+        <point x="9" y="3"/>
+        <point x="6" y="3"/>
+        <point x="3" y="3"/>
+        <point x="0" y="3"/>
+    </connections>
+    <!-- <textbox x1="3.5" y1="2" x2="16" y2="12"/> -->
+    <!-- <aspectratio type="fixed"/> -->
+    <svg:svg>
+        <svg:rect style="stroke-width: 0; stroke: #ffffff; fill: #ffffff" x="0" y="-1.5" width="21" height="6"/>
+        <svg:path style="fill: #ffffff"
+            d="
+                M 0  0
+                L 21 0
+                M 0  3
+                L 21 3
+            "
+        />
+    </svg:svg>
+</shape>

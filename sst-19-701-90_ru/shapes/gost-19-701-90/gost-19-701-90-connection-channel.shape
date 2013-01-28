@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+    <name>GOST-19-701-90 - connection-channel</name>
+    <description>Algorithms, data programs and systems</description>
+    <description xml:lang="ru">Схемы алгоритмов, программ данных и систем</description>
+    <icon>gost-19-701-90-connection-channel.svg</icon>
+<!--
+    Copyright 2013 Alex Vesev
+
+    This file is part of Dia shapes set presenting State Standard
+    Specification 19.701-90, Russia - the Shapes Set.
+
+    The Shapes Set is free: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    The Shapes Set is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with the Shapes Set.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+    <connections>
+
+        <point x="30" y="10" main="yes"/>
+
+        <point x="0"   y="10"/>
+        <point x="35"  y="20"/>
+        <point x="20"  y="0"/>
+        <point x="70"  y="10"/>
+
+    </connections>
+    <!--
+    <textbox x1="70" y1="0" x2="70"  y2="70"/>
+    -->
+    <aspectratio type="fixed"/>
+    <svg:svg>
+        <svg:path style="fill: #ffffff"
+            d="
+                M 0   10
+                L 35  20
+                L 20  0
+                L 70  10
+            "
+        />
+    </svg:svg>
+</shape>

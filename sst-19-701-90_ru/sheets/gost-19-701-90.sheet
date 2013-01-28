@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- -*- xml -*- -->
+
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+    <name>GOST 19.701-90</name>
+    <name xml:lang="ru">ГОСТ 19.701-90</name>
+    <description>GOST 19.701-90 - Algorithms, data programs and systems</description>
+    <description xml:lang="ru">ГОСТ 19.701-90 - Схемы алгоритмов, программ данных и систем</description>
+<!--
+    Copyright 2013 Alex Vesev
+
+    This file is part of Dia shapes set presenting State Standard
+    Specification 19.701-90, Russia - the Shapes Set.
+
+    The Shapes Set is free: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    The Shapes Set is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with the Shapes Set.  If not, see <http://www.gnu.org/licenses/>.
+-->
+    <contents>
+        <object name="GOST-19-701-90 - data">
+            <description>data</description>
+            <description xml:lang="ru">данные</description>
+        </object>
+        <object name="GOST-19-701-90 - data-to-be-stored">
+            <description>data to be stored</description>
+            <description xml:lang="ru">запоминаемые данные</description>
+        </object>
+        <object name="GOST-19-701-90 - RAM">
+            <description>random access memory</description>
+            <description xml:lang="ru">оперативное запоминающее устройство</description>
+        </object>
+        <object name="GOST-19-701-90 - serial-access-memory-device">
+            <description>serial access memory device</description>
+            <description xml:lang="ru">запоминающее устройство с последовательной выборкой</description>
+        </object>
+        <object name="GOST-19-701-90 - data-storage-with-direct-access">
+            <description>data storage with direct access</description>
+            <description xml:lang="ru">запоминающее устройство с прямым доступом</description>
+        </object>
+        <object name="GOST-19-701-90 - document">
+            <description>document</description>
+            <description xml:lang="ru">документ</description>
+        </object>
+        <object name="GOST-19-701-90 - manual-input">
+            <description>manual input</description>
+            <description xml:lang="ru">ручной ввод</description>
+        </object>
+        <object name="GOST-19-701-90 - card">
+            <description>card, punched card</description>
+            <description xml:lang="ru">карта, перфорированная карта</description>
+        </object>
+        <object name="GOST-19-701-90 - paper-tape">
+            <description>paper tape, punched paper tape</description>
+            <description xml:lang="ru">бумажная лента, перфорированная бумажная лента</description>
+        </object>
+        <object name="GOST-19-701-90 - display">
+            <description>display</description>
+            <description xml:lang="ru">дисплей</description>
+        </object>бумажная лента
+        <object name="GOST-19-701-90 - process">
+            <description>process</description>
+            <description xml:lang="ru">процесс</description>
+        </object>
+        <object name="GOST-19-701-90 - predefined-process">
+            <description>predefined process</description>
+            <description xml:lang="ru">предопределённый процесс</description>
+        </object>
+        <object name="GOST-19-701-90 - manual-operation">
+            <description>manual operation</description>
+            <description xml:lang="ru">ручная операция</description>
+        </object>
+        <object name="GOST-19-701-90 - preparation">
+            <description>preparation</description>
+            <description xml:lang="ru">подготовка</description>
+        </object>
+        <object name="GOST-19-701-90 - decision">
+            <description>decision</description>
+            <description xml:lang="ru">решение</description>
+        </object>
+        <object name="GOST-19-701-90 - parallel actions">
+            <description>parallel actions</description>
+            <description xml:lang="ru">параллельные действия</description>
+        </object>
+        <object name="GOST-19-701-90 - cycle-body-start">
+            <description>cycle body start</description>
+            <description xml:lang="ru">граница цикла, начало тела</description>
+        </object>
+        <object name="GOST-19-701-90 - cycle-body-end">
+            <description>cycle body end</description>
+            <description xml:lang="ru">граница цикла, конец тела</description>
+        </object>
+        <object name="GOST-19-701-90 - transfer-of-control">
+            <description>transfer of control</description>
+            <description xml:lang="ru">передача управления</description>
+        </object>
+        <object name="GOST-19-701-90 - connection-channel">
+            <description>connection channel</description>
+            <description xml:lang="ru">канал связи</description>
+        </object>
+        <object name="GOST-19-701-90 - connector">
+            <description>connector</description>
+            <description xml:lang="ru">соединитель</description>
+        </object>
+        <object name="GOST-19-701-90 - terminator">
+            <description>terminator</description>
+            <description xml:lang="ru">терминатор</description>
+        </object>
+        <object name="GOST-19-701-90 - commentary">
+            <description>commentary</description>
+            <description xml:lang="ru">комментарий</description>
+        </object>
+        <object name="GOST-19-701-90 - admission">
+            <description>admission</description>
+            <description xml:lang="ru">пропуск</description>
+        </object>
+   </contents>
+</sheet>

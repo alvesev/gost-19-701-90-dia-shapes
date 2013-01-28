@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+    <name>GOST-19-701-90 - preparation</name>
+    <description>Algorithms, data programs and systems</description>
+    <description xml:lang="ru">Схемы алгоритмов, программ данных и систем</description>
+    <icon>gost-19-701-90-preparation.svg</icon>
+<!--
+    Copyright 2013 Alex Vesev
+
+    This file is part of Dia shapes set presenting State Standard
+    Specification 19.701-90, Russia - the Shapes Set.
+
+    The Shapes Set is free: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    The Shapes Set is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with the Shapes Set.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+    <connections>
+
+        <point x="9" y="7" main="yes"/>
+
+        <!-- Height Middle -->
+        <point x="0" y="7"/>
+
+        <point x="1.5" y="3.5"/>
+        <point x="3" y="0"/>
+
+        <point x="5" y="0"/>
+        <point x="7" y="0"/>
+        <point x="9" y="0"/>
+        <point x="11" y="0"/>
+        <point x="13" y="0"/>
+
+        <point x="15" y="0"/>
+        <point x="16.5" y="3.5"/>
+
+        <!-- Height Middle -->
+        <point x="18" y="7"/>
+
+        <point x="16.5" y="10.5"/>
+        <point x="15" y="14"/>
+
+        <point x="13" y="14"/>
+        <point x="11" y="14"/>
+        <point x="9" y="14"/>
+        <point x="7" y="14"/>
+        <point x="5" y="14"/>
+
+        <point x="3" y="14"/>
+        <point x="1.5" y="10.5"/>
+
+    </connections>
+    <textbox x1="3.5" y1="2" x2="16" y2="12"/>
+    <!-- <aspectratio type="fixed"/> -->
+    <svg:svg>
+        <svg:path style="fill: #ffffff"
+            d="
+                M 0  7
+                L 3  0
+                L 15 0
+                L 18 7
+                L 15 14
+                L 3  14
+                z
+            "
+        />
+    </svg:svg>
+</shape>

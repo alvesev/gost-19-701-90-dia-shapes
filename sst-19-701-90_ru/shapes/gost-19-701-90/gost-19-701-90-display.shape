@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+    <name>GOST-19-701-90 - display</name>
+    <description>Algorithms, data programs and systems</description>
+    <description xml:lang="ru">Схемы алгоритмов, программ данных и систем</description>
+    <icon>gost-19-701-90-display.svg</icon>
+<!--
+    Copyright 2013 Alex Vesev
+
+    This file is part of Dia shapes set presenting State Standard
+    Specification 19.701-90, Russia - the Shapes Set.
+
+    The Shapes Set is free: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    The Shapes Set is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with the Shapes Set.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+    <connections>
+
+    <point x="50" y="33" main="yes"/>
+
+    <point x="33" y="66"/>
+    <point x="16" y="55"/>
+    <point x="6" y="44"/>
+    <point x="0" y="33"/>
+    <point x="6" y="22"/>
+    <point x="16" y="11"/>
+    <point x="33" y="0"/>
+
+    <point x="59" y="0"/>
+    <point x="85" y="0"/>
+    <point x="100" y="20"/>
+    <point x="100" y="33"/>
+    <point x="100" y="46"/>
+    <point x="85" y="66"/>
+    <point x="59" y="66"/>
+
+    </connections>
+    <textbox x1="25" y1="10" x2="90" y2="60"/>
+    <!-- <aspectratio type="fixed"/> -->
+    <svg:svg>
+        <svg:path style="fill: #ffffff"
+            d="
+                M 33 66
+        C 21,60 9,57 0,33
+                C 9,9 21,6 33,0
+                L 85 0
+                C 95.5,7.5 95.5,7.5 100,20
+                L 100 46
+                C 95.5,58.5 95.5,58.5 85,66
+                L 33 66
+                z
+            "
+        />
+    </svg:svg>
+</shape>
